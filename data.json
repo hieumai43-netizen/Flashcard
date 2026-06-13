@@ -1,6 +1,6 @@
 [
   {
-    "word": "男性",
+    "word": "Đàn ông",
     "jp": "男性",
     "kana": "だんせい",
     "meaning": "Nam tính",
@@ -14,7 +14,7 @@
     "exVN": "Người đàn ông đang làm việc ở công ty"
   },
   {
-    "word": "女性",
+    "word": "Phụ nữ",
     "jp": "女性",
     "kana": "じょせい",
     "meaning": "Nữ tính",
@@ -28,7 +28,7 @@
     "exVN": "Người phụ nữ đang đọc sách"
   },
   {
-    "word": "子供",
+    "word": "Trẻ em",
     "jp": "子供",
     "kana": "こども",
     "meaning": "Tử cung",
@@ -42,7 +42,7 @@
     "exVN": "Trẻ em đang chơi"
   },
   {
-    "word": "赤ちゃん",
+    "word": "Em bé",
     "jp": "赤ちゃん",
     "kana": "あかちゃん",
     "meaning": "Xích",
@@ -56,7 +56,7 @@
     "exVN": "Em bé đang ngủ"
   },
   {
-    "word": "人",
+    "word": "Người",
     "jp": "人",
     "kana": "ひと",
     "meaning": "Nhân",
@@ -70,7 +70,7 @@
     "exVN": "Có một người ở đây"
   },
   {
-    "word": "家族",
+    "word": "Gia đình",
     "jp": "家族",
     "kana": "かぞく",
     "meaning": "Gia tộc",
@@ -84,7 +84,7 @@
     "exVN": "Gia đình tôi rất vui"
   },
   {
-    "word": "父",
+    "word": "Cha",
     "jp": "父",
     "kana": "ちち",
     "meaning": "Phụ",
@@ -98,7 +98,7 @@
     "exVN": "Bố tôi đang làm việc"
   },
   {
-    "word": "母",
+    "word": "Mẹ",
     "jp": "母",
     "kana": "はは",
     "meaning": "Mẫu",
@@ -112,7 +112,7 @@
     "exVN": "Mẹ tôi đang nấu ăn"
   },
   {
-    "word": "息子",
+    "word": "Con trai",
     "jp": "息子",
     "kana": "むすこ",
     "meaning": "Tức tử",
@@ -126,7 +126,7 @@
     "exVN": "Con trai tôi đang học"
   },
   {
-    "word": "娘",
+    "word": "Con gái",
     "jp": "娘",
     "kana": "むすめ",
     "meaning": "Nương",
@@ -140,7 +140,7 @@
     "exVN": "Con gái tôi đang vẽ"
   },
   {
-    "word": "兄",
+    "word": "Anh trai",
     "jp": "兄",
     "kana": "あに",
     "meaning": "Huynh",
@@ -154,7 +154,7 @@
     "exVN": "Anh trai tôi đang đi ra ngoài"
   },
   {
-    "word": "姉",
+    "word": "Chị gái",
     "jp": "姉",
     "kana": "あね",
     "meaning": "Tỷ",
@@ -168,7 +168,7 @@
     "exVN": "Chị gái tôi đang cười"
   },
   {
-    "word": "弟",
+    "word": "Em trai",
     "jp": "弟",
     "kana": "おとうと",
     "meaning": "Đệ",
@@ -182,7 +182,7 @@
     "exVN": "Em trai tôi đang chạy"
   },
   {
-    "word": "妹",
+    "word": "Em gái",
     "jp": "妹",
     "kana": "いもうと",
     "meaning": "Muội",
@@ -196,7 +196,7 @@
     "exVN": "Em gái tôi đang ngủ"
   },
   {
-    "word": "祖父",
+    "word": "Ông",
     "jp": "祖父",
     "kana": "そふ",
     "meaning": "Tổ phụ",
@@ -210,7 +210,7 @@
     "exVN": "Ông tôi đang nghỉ"
   },
   {
-    "word": "祖母",
+    "word": "Bà",
     "jp": "祖母",
     "kana": "そぼ",
     "meaning": "Tổ mẫu",
@@ -224,7 +224,7 @@
     "exVN": "Bà tôi đang xem TV"
   },
   {
-    "word": "会社",
+    "word": "Công ty",
     "jp": "会社",
     "kana": "かいしゃ",
     "meaning": "Hội xã",
@@ -238,7 +238,7 @@
     "exVN": "Tôi đi đến công ty"
   },
   {
-    "word": "社員",
+    "word": "Nhân viên",
     "jp": "社員",
     "kana": "しゃいん",
     "meaning": "Xã viên",
@@ -252,7 +252,7 @@
     "exVN": "Nhân viên đang làm việc"
   },
   {
-    "word": "社長",
+    "word": "Giám đốc",
     "jp": "社長",
     "kana": "しゃちょう",
     "meaning": "Xã trưởng",
@@ -266,7 +266,7 @@
     "exVN": "Giám đốc đang họp"
   },
   {
-    "word": "部長",
+    "word": "Trưởng phòng",
     "jp": "部長",
     "kana": "ぶちょう",
     "meaning": "Bộ trưởng",
@@ -280,7 +280,7 @@
     "exVN": "Trưởng phòng đang bận"
   },
   {
-    "word": "今日",
+    "word": "Hôm nay",
     "jp": "今日",
     "kana": "きょう",
     "meaning": "Kim nhật",
@@ -294,7 +294,7 @@
     "exVN": "Hôm nay trời đẹp"
   },
   {
-    "word": "昨日",
+    "word": "Hôm qua",
     "jp": "昨日",
     "kana": "きのう",
     "meaning": "Tạc nhật",
@@ -308,7 +308,7 @@
     "exVN": "Hôm qua tôi đi học"
   },
   {
-    "word": "明日",
+    "word": "Ngày mai",
     "jp": "明日",
     "kana": "あした",
     "meaning": "Minh nhật",
@@ -322,7 +322,7 @@
     "exVN": "Ngày mai tôi đi làm"
   },
   {
-    "word": "朝",
+    "word": "Buổi sáng",
     "jp": "朝",
     "kana": "あさ",
     "meaning": "Triêu",
@@ -336,7 +336,7 @@
     "exVN": "Buổi sáng tôi uống cà phê"
   },
   {
-    "word": "昼",
+    "word": "Buổi trưa",
     "jp": "昼",
     "kana": "ひる",
     "meaning": "Trú",
@@ -350,7 +350,7 @@
     "exVN": "Buổi trưa tôi ăn cơm"
   },
   {
-    "word": "夜",
+    "word": "Buổi tối",
     "jp": "夜",
     "kana": "よる",
     "meaning": "Dạ",
@@ -364,7 +364,7 @@
     "exVN": "Buổi tối tôi xem phim"
   },
   {
-    "word": "食べる",
+    "word": "Ăn",
     "jp": "食べる",
     "kana": "たべる",
     "meaning": "Thực",
@@ -378,7 +378,7 @@
     "exVN": "Tôi ăn cơm"
   },
   {
-    "word": "飲む",
+    "word": "Uống",
     "jp": "飲む",
     "kana": "のむ",
     "meaning": "Ẩm",
@@ -392,7 +392,7 @@
     "exVN": "Tôi uống nước"
   },
   {
-    "word": "行く",
+    "word": "Đi",
     "jp": "行く",
     "kana": "いく",
     "meaning": "Hành",
