@@ -2,33 +2,182 @@
 <html lang="vi">
 
 <head>
-    <meta charset="UTF-8">
-    <title>Flashcard</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="manifest" href="manifest.json">
 
-<meta name="theme-color" content="#2196f3">
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Flashcard</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="manifest" href="manifest.json">
+
 </head>
+
 
 <body>
 
-    <div class="card">
 
-        <div class="title" id="vn"></div>
+<div class="app">
 
-        <div class="title" id="jp"></div>
 
-        <div class="title" id="en"></div>
+<div class="card">
 
-        <div class="example" id="example"></div>
 
-        <button onclick="nextCard()">
-            Từ tiếp theo
-        </button>
+<div class="title">
 
-    </div>
+<span id="word">Đàn ông</span>
 
-    <script src="script.js"></script>
+<button onclick="speakWord()">🔊</button>
+
+</div>
+
+
+
+<table>
+
+
+<tr>
+
+<td rowspan="2" id="jp">男性</td>
+
+<td id="kana">だんせい</td>
+
+<td>
+
+<button onclick="speakJP()">🔊</button>
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td id="meaning">Nam tính</td>
+
+<td></td>
+
+</tr>
+
+
+
+
+<tr>
+
+<td id="en">Man</td>
+
+<td id="ipa">/mæn/</td>
+
+<td>
+
+<button onclick="speakEN()">🔊</button>
+
+</td>
+
+</tr>
+
+
+
+
+<tr>
+
+<td id="cn">男性</td>
+
+<td id="pin">nánxìng</td>
+
+<td>
+
+<button onclick="speakCN()">🔊</button>
+
+</td>
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+
+
+<div class="examples">
+
+
+<div class="line">
+
+<b>JP</b>
+
+<span id="exJP"></span>
+
+<button onclick="speakExJP()">🔊</button>
+
+</div>
+
+
+<div class="line">
+
+<b>US</b>
+
+<span id="exEN"></span>
+
+<button onclick="speakExEN()">🔊</button>
+
+</div>
+
+
+
+<div class="line">
+
+<b>CN</b>
+
+<span id="exCN"></span>
+
+<button onclick="speakExCN()">🔊</button>
+
+</div>
+
+
+
+<div class="line">
+
+<b>VN</b>
+
+<span id="exVN"></span>
+
+<button onclick="speakVN()">🔊</button>
+
+</div>
+
+
+</div>
+
+
+
+
+<div class="nav">
+
+
+<button onclick="back()">← Quay lại</button>
+
+
+<button onclick="next()">Tiếp tục →</button>
+
+
+</div>
+
+
+
+</div>
+
+
+
+<script src="script.js"></script>
+
 
 </body>
 
